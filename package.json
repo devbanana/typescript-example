@@ -1,0 +1,21 @@
+{
+  "name": "typescript-example",
+  "version": "1.0.0",
+  "description": "A project demonstrating how to use TypeScript",
+  "main": "build/index.js",
+  "keywords": [
+    "typescript",
+    "javascript",
+    "gulp"
+  ],
+  "author": "Brandon Olivares <programmer2188@gmail.com> (https://www.devbanana.me)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbanana/typescript-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devbanana/typescript-example/issues"
+  },
+  "homepage": "https://github.com/devbanana/typescript-example#readme"
+}
